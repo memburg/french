@@ -1,5 +1,12 @@
 # Learning the French Language
 
+## Goals
+
+- [ ] Reach an A1 level by the end of December 2023
+- [ ] Reach an A2 level by the end of January 2024
+- [ ] Reach a B1/B2 level by mid-2024
+- [ ] Get an official French certificate by the end of 2024
+
 ## Resources
 
 ### Reading
