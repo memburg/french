@@ -2,6 +2,16 @@
 
 ## Resources
 
+### Reading
+
+I like reading so why not reading books? Here are some French books I would like to read during 2024:
+
+- [] *La Planète des Singe* by *Pierre Boulle*
+- [] *Voyage au Centre de la Terre* by *Jules Verne*
+- [] *Le Bal des Papillons* by *Hervé Vilard*
+- [] *L'âme Seule* by *Hervé Vilard*
+- [] *Du Lierre dans les Arbres* by *Hervé Vilard*
+
 ### Speaking
 
 Here are some tools/resources that I use/gonna use to delve deeper into the French language, some of these are paid services but they also have a free version.
